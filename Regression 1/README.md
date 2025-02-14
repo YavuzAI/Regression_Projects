@@ -4,6 +4,7 @@ Yield prediction for blueberries. Tried bunch of manipulation techniques for wel
 ## Important Steps in the Project
 
 ### Kmeans 'Segment' Feature Creation
+  I implemented Kmeans Clustering to the data excluding the target column obtaining a robust feature that represents segments.
 ![Kmeans Feature Eng](screenshots/feature_eng_Kmeans.png)
 
 ### Model Architecture 
