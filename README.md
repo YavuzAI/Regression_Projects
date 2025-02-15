@@ -14,6 +14,10 @@ The primary intention of this repository is to:
    - **Description**: Predicted yield values for blueberries using bunch of manipulation techniques.
    - **Techniques Used**: Feature engineering using Kmeans, Data Visualization, Stacking Traditional Models
 
+2. **Project 2: [Predicting Abalone Rings]**
+   - **Description**: Predicted ring values of abalone stones using bunch of manipulation techniques.
+   - **Techniques Used**: 
+
 
 ## Conclusion
 Through these projects, I aim to deepen my understanding of regression analysis and its applications in predictive modeling. I hope this repository serves as a useful resource for anyone interested in learning more about regression techniques and their practical applications.
