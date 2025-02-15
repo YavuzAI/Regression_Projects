@@ -16,7 +16,7 @@ The primary intention of this repository is to:
 
 2. **Project 2: [Predicting Abalone Rings]**
    - **Description**: Predicted ring values of abalone stones using bunch of manipulation techniques.
-   - **Techniques Used**: 
+   - **Techniques Used**: PCA, Polynomial Features
 
 
 ## Conclusion
